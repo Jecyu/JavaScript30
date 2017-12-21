@@ -12,7 +12,7 @@ javascript30
 
 ## TodoList
 
-- [ ] 01.JavaScript Dum Kit
+- [x] [01.JavaScript Dum Kit](http://www.linjiyu.me/JavaScript30/01-JavaScript-Drum-Kit/index.html)
 - [ ] 02.CSS + JS Clock
 - [ ] 03.CSS Variables
 - [ ] 04.Array Cardio Day 1
